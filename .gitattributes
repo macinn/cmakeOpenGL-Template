@@ -63,4 +63,4 @@
 #*.RTF   diff=astextplain
 
 # ignore lib/ in language stats
-lib/* linguist-vendored
+lib/** linguist-vendored
